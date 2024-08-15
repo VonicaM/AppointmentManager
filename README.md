@@ -6,3 +6,5 @@ Because this software is meant to connect to an SQL database, it will not proper
 This application was created with Java using the Apache Netbeans IDE, as well as the SceneBuilder application, for the design of the forms. To attempt to run the application on Windows, you will need to go into the dist folder and run the Software2Assignment.bat file. Doing so will run the necessary console commands to connect the Software2Assignment.jar file with the javafx library, both also contained in the same dist folder. The jar file will then begin executing, and you will be able to interact with the application through its GUI.
 
 If you wish to see the code itself, the project can be opened in the Apache Netbeans IDE to view it directly. The various FXML files can also be opened up in SceneBuilder, to get a look at them as well.
+
+The username is Cat, and the password is Dog.
